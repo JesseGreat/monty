@@ -35,7 +35,7 @@ typedef struct stack_s
  * @buffer: input text
  *
  * Description: doubly linked list node structure
- * for stack, queues, LIFO, FIFO ALX
+ * for stack, queues, LIFO, FIFO Holberton project
  */
 typedef struct globals
 {
